@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\mở_đầu_về_I_O\obj\Debug\net7.0\mở_đầu_về_I_O.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\mở_đầu_về_I_O\obj\Debug\net7.0\mở_đầu_về_I_O.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\mở_đầu_về_I_O\obj\Debug\net7.0\mở_đầu_về_I_O.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\mở_đầu_về_I_O\obj\Debug\net7.0\mở_đầu_về_I_O.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\mở_đầu_về_I_O\bin\Debug\net7.0\mở_đầu_về_I_O.exe
+C:\Users\Administrator\source\repos\mở_đầu_về_I_O\bin\Debug\net7.0\mở_đầu_về_I_O.deps.json
+C:\Users\Administrator\source\repos\mở_đầu_về_I_O\bin\Debug\net7.0\mở_đầu_về_I_O.runtimeconfig.json
+C:\Users\Administrator\source\repos\mở_đầu_về_I_O\bin\Debug\net7.0\mở_đầu_về_I_O.dll
+C:\Users\Administrator\source\repos\mở_đầu_về_I_O\bin\Debug\net7.0\mở_đầu_về_I_O.pdb
+C:\Users\Administrator\source\repos\mở_đầu_về_I_O\obj\Debug\net7.0\mở_đầu_về_I_O.dll
+C:\Users\Administrator\source\repos\mở_đầu_về_I_O\obj\Debug\net7.0\refint\mở_đầu_về_I_O.dll
+C:\Users\Administrator\source\repos\mở_đầu_về_I_O\obj\Debug\net7.0\mở_đầu_về_I_O.pdb
+C:\Users\Administrator\source\repos\mở_đầu_về_I_O\obj\Debug\net7.0\mở_đầu_về_I_O.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\mở_đầu_về_I_O\obj\Debug\net7.0\ref\mở_đầu_về_I_O.dll
