@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\delegate_đa_hàm\bin\Debug\net7.0\delegate_đa_hàm.exe
+C:\Users\Administrator\source\repos\delegate_đa_hàm\bin\Debug\net7.0\delegate_đa_hàm.deps.json
+C:\Users\Administrator\source\repos\delegate_đa_hàm\bin\Debug\net7.0\delegate_đa_hàm.runtimeconfig.json
+C:\Users\Administrator\source\repos\delegate_đa_hàm\bin\Debug\net7.0\delegate_đa_hàm.dll
+C:\Users\Administrator\source\repos\delegate_đa_hàm\bin\Debug\net7.0\delegate_đa_hàm.pdb
+C:\Users\Administrator\source\repos\delegate_đa_hàm\obj\Debug\net7.0\delegate_đa_hàm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\delegate_đa_hàm\obj\Debug\net7.0\delegate_đa_hàm.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\delegate_đa_hàm\obj\Debug\net7.0\delegate_đa_hàm.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\delegate_đa_hàm\obj\Debug\net7.0\delegate_đa_hàm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\delegate_đa_hàm\obj\Debug\net7.0\delegate_đa_hàm.dll
+C:\Users\Administrator\source\repos\delegate_đa_hàm\obj\Debug\net7.0\refint\delegate_đa_hàm.dll
+C:\Users\Administrator\source\repos\delegate_đa_hàm\obj\Debug\net7.0\delegate_đa_hàm.pdb
+C:\Users\Administrator\source\repos\delegate_đa_hàm\obj\Debug\net7.0\delegate_đa_hàm.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\delegate_đa_hàm\obj\Debug\net7.0\ref\delegate_đa_hàm.dll

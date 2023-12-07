@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\actiondelegate\bin\Debug\net7.0\actiondelegate.exe
+C:\Users\Administrator\source\repos\actiondelegate\bin\Debug\net7.0\actiondelegate.deps.json
+C:\Users\Administrator\source\repos\actiondelegate\bin\Debug\net7.0\actiondelegate.runtimeconfig.json
+C:\Users\Administrator\source\repos\actiondelegate\bin\Debug\net7.0\actiondelegate.dll
+C:\Users\Administrator\source\repos\actiondelegate\bin\Debug\net7.0\actiondelegate.pdb
+C:\Users\Administrator\source\repos\actiondelegate\obj\Debug\net7.0\actiondelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\actiondelegate\obj\Debug\net7.0\actiondelegate.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\actiondelegate\obj\Debug\net7.0\actiondelegate.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\actiondelegate\obj\Debug\net7.0\actiondelegate.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\actiondelegate\obj\Debug\net7.0\actiondelegate.dll
+C:\Users\Administrator\source\repos\actiondelegate\obj\Debug\net7.0\refint\actiondelegate.dll
+C:\Users\Administrator\source\repos\actiondelegate\obj\Debug\net7.0\actiondelegate.pdb
+C:\Users\Administrator\source\repos\actiondelegate\obj\Debug\net7.0\actiondelegate.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\actiondelegate\obj\Debug\net7.0\ref\actiondelegate.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\callback_delegate\bin\Debug\net7.0\callback_delegate.exe
+C:\Users\Administrator\source\repos\callback_delegate\bin\Debug\net7.0\callback_delegate.deps.json
+C:\Users\Administrator\source\repos\callback_delegate\bin\Debug\net7.0\callback_delegate.runtimeconfig.json
+C:\Users\Administrator\source\repos\callback_delegate\bin\Debug\net7.0\callback_delegate.dll
+C:\Users\Administrator\source\repos\callback_delegate\bin\Debug\net7.0\callback_delegate.pdb
+C:\Users\Administrator\source\repos\callback_delegate\obj\Debug\net7.0\callback_delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\callback_delegate\obj\Debug\net7.0\callback_delegate.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\callback_delegate\obj\Debug\net7.0\callback_delegate.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\callback_delegate\obj\Debug\net7.0\callback_delegate.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\callback_delegate\obj\Debug\net7.0\callback_delegate.dll
+C:\Users\Administrator\source\repos\callback_delegate\obj\Debug\net7.0\refint\callback_delegate.dll
+C:\Users\Administrator\source\repos\callback_delegate\obj\Debug\net7.0\callback_delegate.pdb
+C:\Users\Administrator\source\repos\callback_delegate\obj\Debug\net7.0\callback_delegate.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\callback_delegate\obj\Debug\net7.0\ref\callback_delegate.dll
