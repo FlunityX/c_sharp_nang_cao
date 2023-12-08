@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "áp_dung_event", "áp_dung_event.csproj", "{0D429D31-14F5-4840-84A9-E40898516BCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "làm_quen_win_form", "..\làm_quen_win_form\làm_quen_win_form.csproj", "{3F799B1C-59DB-4E5B-AFD4-EB6587770571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D429D31-14F5-4840-84A9-E40898516BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D429D31-14F5-4840-84A9-E40898516BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D429D31-14F5-4840-84A9-E40898516BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D429D31-14F5-4840-84A9-E40898516BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F799B1C-59DB-4E5B-AFD4-EB6587770571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F799B1C-59DB-4E5B-AFD4-EB6587770571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F799B1C-59DB-4E5B-AFD4-EB6587770571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F799B1C-59DB-4E5B-AFD4-EB6587770571}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04A9E4DA-A36D-43DB-8CA7-22E8BFFEC396}
+	EndGlobalSection
+EndGlobal

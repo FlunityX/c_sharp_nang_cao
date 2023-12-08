@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\áp_dung_event\obj\Debug\net8.0\áp_dung_event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\áp_dung_event\obj\Debug\net8.0\áp_dung_event.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\áp_dung_event\obj\Debug\net8.0\áp_dung_event.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\áp_dung_event\obj\Debug\net8.0\áp_dung_event.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\áp_dung_event\bin\Debug\net8.0\áp_dung_event.exe
+C:\Users\Administrator\source\repos\áp_dung_event\bin\Debug\net8.0\áp_dung_event.deps.json
+C:\Users\Administrator\source\repos\áp_dung_event\bin\Debug\net8.0\áp_dung_event.runtimeconfig.json
+C:\Users\Administrator\source\repos\áp_dung_event\bin\Debug\net8.0\áp_dung_event.dll
+C:\Users\Administrator\source\repos\áp_dung_event\bin\Debug\net8.0\áp_dung_event.pdb
+C:\Users\Administrator\source\repos\áp_dung_event\obj\Debug\net8.0\áp_dung_event.dll
+C:\Users\Administrator\source\repos\áp_dung_event\obj\Debug\net8.0\refint\áp_dung_event.dll
+C:\Users\Administrator\source\repos\áp_dung_event\obj\Debug\net8.0\áp_dung_event.pdb
+C:\Users\Administrator\source\repos\áp_dung_event\obj\Debug\net8.0\áp_dung_event.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\áp_dung_event\obj\Debug\net8.0\ref\áp_dung_event.dll
