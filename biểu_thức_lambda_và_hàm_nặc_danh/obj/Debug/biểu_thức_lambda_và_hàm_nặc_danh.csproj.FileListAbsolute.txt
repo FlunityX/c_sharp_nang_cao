@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\biểu_thức_lambda_và_hàm_nặc_danh\bin\Debug\biểu_thức_lambda_và_hàm_nặc_danh.exe.config
+C:\Users\Administrator\source\repos\biểu_thức_lambda_và_hàm_nặc_danh\bin\Debug\biểu_thức_lambda_và_hàm_nặc_danh.exe
+C:\Users\Administrator\source\repos\biểu_thức_lambda_và_hàm_nặc_danh\bin\Debug\biểu_thức_lambda_và_hàm_nặc_danh.pdb
+C:\Users\Administrator\source\repos\biểu_thức_lambda_và_hàm_nặc_danh\obj\Debug\biểu_thức_lambda_và_hàm_nặc_danh.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\biểu_thức_lambda_và_hàm_nặc_danh\obj\Debug\biểu_thức_lambda_và_hàm_nặc_danh.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\biểu_thức_lambda_và_hàm_nặc_danh\obj\Debug\biểu_thức_lambda_và_hàm_nặc_danh.exe
+C:\Users\Administrator\source\repos\biểu_thức_lambda_và_hàm_nặc_danh\obj\Debug\biểu_thức_lambda_và_hàm_nặc_danh.pdb
