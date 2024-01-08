@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Lập trình bất đồng bộ Asynchronous,\bin\Debug\Lập trình bất đồng bộ Asynchronous,.exe.config
+C:\Users\Administrator\source\repos\Lập trình bất đồng bộ Asynchronous,\bin\Debug\Lập trình bất đồng bộ Asynchronous,.exe
+C:\Users\Administrator\source\repos\Lập trình bất đồng bộ Asynchronous,\bin\Debug\Lập trình bất đồng bộ Asynchronous,.pdb
+C:\Users\Administrator\source\repos\Lập trình bất đồng bộ Asynchronous,\obj\Debug\Lập trình bất đồng bộ Asynchronous,.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Lập trình bất đồng bộ Asynchronous,\obj\Debug\Lập trình bất đồng bộ Asynchronous,.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lập trình bất đồng bộ Asynchronous,\obj\Debug\Lập trình bất đồng bộ Asynchronous,.exe
+C:\Users\Administrator\source\repos\Lập trình bất đồng bộ Asynchronous,\obj\Debug\Lập trình bất đồng bộ Asynchronous,.pdb
