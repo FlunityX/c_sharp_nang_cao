@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\type_(get_type)\bin\Debug\net8.0\type_(get_type).exe
+C:\Users\Administrator\source\repos\type_(get_type)\bin\Debug\net8.0\type_(get_type).deps.json
+C:\Users\Administrator\source\repos\type_(get_type)\bin\Debug\net8.0\type_(get_type).runtimeconfig.json
+C:\Users\Administrator\source\repos\type_(get_type)\bin\Debug\net8.0\type_(get_type).dll
+C:\Users\Administrator\source\repos\type_(get_type)\bin\Debug\net8.0\type_(get_type).pdb
+C:\Users\Administrator\source\repos\type_(get_type)\obj\Debug\net8.0\type_(get_type).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\type_(get_type)\obj\Debug\net8.0\type_(get_type).AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\type_(get_type)\obj\Debug\net8.0\type_(get_type).AssemblyInfo.cs
+C:\Users\Administrator\source\repos\type_(get_type)\obj\Debug\net8.0\type_(get_type).csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\type_(get_type)\obj\Debug\net8.0\type_(get_type).dll
+C:\Users\Administrator\source\repos\type_(get_type)\obj\Debug\net8.0\refint\type_(get_type).dll
+C:\Users\Administrator\source\repos\type_(get_type)\obj\Debug\net8.0\type_(get_type).pdb
+C:\Users\Administrator\source\repos\type_(get_type)\obj\Debug\net8.0\type_(get_type).genruntimeconfig.cache
+C:\Users\Administrator\source\repos\type_(get_type)\obj\Debug\net8.0\ref\type_(get_type).dll
