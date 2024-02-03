@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\string_builder\bin\Debug\net8.0\string_builder.exe
+C:\Users\Administrator\source\repos\string_builder\bin\Debug\net8.0\string_builder.deps.json
+C:\Users\Administrator\source\repos\string_builder\bin\Debug\net8.0\string_builder.runtimeconfig.json
+C:\Users\Administrator\source\repos\string_builder\bin\Debug\net8.0\string_builder.dll
+C:\Users\Administrator\source\repos\string_builder\bin\Debug\net8.0\string_builder.pdb
+C:\Users\Administrator\source\repos\string_builder\obj\Debug\net8.0\string_builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\string_builder\obj\Debug\net8.0\string_builder.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\string_builder\obj\Debug\net8.0\string_builder.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\string_builder\obj\Debug\net8.0\string_builder.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\string_builder\obj\Debug\net8.0\string_builder.dll
+C:\Users\Administrator\source\repos\string_builder\obj\Debug\net8.0\refint\string_builder.dll
+C:\Users\Administrator\source\repos\string_builder\obj\Debug\net8.0\string_builder.pdb
+C:\Users\Administrator\source\repos\string_builder\obj\Debug\net8.0\string_builder.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\string_builder\obj\Debug\net8.0\ref\string_builder.dll
