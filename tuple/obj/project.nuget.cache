@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nzmpLVyKSUB0CdxPPPBRR0zo4t9y9ljBT9D+3o2w10cSt1DTN1rknyvnmR+iRKE9RfcKqI7nHQ4ixDB6meW+TA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\tuple\\tuple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
