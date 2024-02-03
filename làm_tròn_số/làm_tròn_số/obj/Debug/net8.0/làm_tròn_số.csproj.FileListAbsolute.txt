@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\làm_tròn_số\làm_tròn_số\obj\Debug\net8.0\làm_tròn_số.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\làm_tròn_số\làm_tròn_số\obj\Debug\net8.0\làm_tròn_số.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\làm_tròn_số\làm_tròn_số\obj\Debug\net8.0\làm_tròn_số.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\làm_tròn_số\làm_tròn_số\obj\Debug\net8.0\làm_tròn_số.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\làm_tròn_số\làm_tròn_số\bin\Debug\net8.0\làm_tròn_số.exe
+C:\Users\Administrator\source\repos\làm_tròn_số\làm_tròn_số\bin\Debug\net8.0\làm_tròn_số.deps.json
+C:\Users\Administrator\source\repos\làm_tròn_số\làm_tròn_số\bin\Debug\net8.0\làm_tròn_số.runtimeconfig.json
+C:\Users\Administrator\source\repos\làm_tròn_số\làm_tròn_số\bin\Debug\net8.0\làm_tròn_số.dll
+C:\Users\Administrator\source\repos\làm_tròn_số\làm_tròn_số\bin\Debug\net8.0\làm_tròn_số.pdb
+C:\Users\Administrator\source\repos\làm_tròn_số\làm_tròn_số\obj\Debug\net8.0\làm_tròn_số.dll
+C:\Users\Administrator\source\repos\làm_tròn_số\làm_tròn_số\obj\Debug\net8.0\refint\làm_tròn_số.dll
+C:\Users\Administrator\source\repos\làm_tròn_số\làm_tròn_số\obj\Debug\net8.0\làm_tròn_số.pdb
+C:\Users\Administrator\source\repos\làm_tròn_số\làm_tròn_số\obj\Debug\net8.0\làm_tròn_số.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\làm_tròn_số\làm_tròn_số\obj\Debug\net8.0\ref\làm_tròn_số.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\filestream\bin\Debug\net8.0\filestream.exe
+C:\Users\Administrator\source\repos\filestream\bin\Debug\net8.0\filestream.deps.json
+C:\Users\Administrator\source\repos\filestream\bin\Debug\net8.0\filestream.runtimeconfig.json
+C:\Users\Administrator\source\repos\filestream\bin\Debug\net8.0\filestream.dll
+C:\Users\Administrator\source\repos\filestream\bin\Debug\net8.0\filestream.pdb
+C:\Users\Administrator\source\repos\filestream\obj\Debug\net8.0\filestream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\filestream\obj\Debug\net8.0\filestream.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\filestream\obj\Debug\net8.0\filestream.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\filestream\obj\Debug\net8.0\filestream.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\filestream\obj\Debug\net8.0\filestream.dll
+C:\Users\Administrator\source\repos\filestream\obj\Debug\net8.0\refint\filestream.dll
+C:\Users\Administrator\source\repos\filestream\obj\Debug\net8.0\filestream.pdb
+C:\Users\Administrator\source\repos\filestream\obj\Debug\net8.0\filestream.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\filestream\obj\Debug\net8.0\ref\filestream.dll
