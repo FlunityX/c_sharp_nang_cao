@@ -1,0 +1,4 @@
+C:\Users\Administrator\source\repos\readonly\obj\Debug\net8.0\readonly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\readonly\obj\Debug\net8.0\readonly.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\readonly\obj\Debug\net8.0\readonly.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\readonly\obj\Debug\net8.0\readonly.csproj.CoreCompileInputs.cache
