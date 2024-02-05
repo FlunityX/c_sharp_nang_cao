@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Event_Handler\bin\Debug\net8.0\Event_Handler.exe
+C:\Users\Administrator\source\repos\Event_Handler\bin\Debug\net8.0\Event_Handler.deps.json
+C:\Users\Administrator\source\repos\Event_Handler\bin\Debug\net8.0\Event_Handler.runtimeconfig.json
+C:\Users\Administrator\source\repos\Event_Handler\bin\Debug\net8.0\Event_Handler.dll
+C:\Users\Administrator\source\repos\Event_Handler\bin\Debug\net8.0\Event_Handler.pdb
+C:\Users\Administrator\source\repos\Event_Handler\obj\Debug\net8.0\Event_Handler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Event_Handler\obj\Debug\net8.0\Event_Handler.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Event_Handler\obj\Debug\net8.0\Event_Handler.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Event_Handler\obj\Debug\net8.0\Event_Handler.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Event_Handler\obj\Debug\net8.0\Event_Handler.dll
+C:\Users\Administrator\source\repos\Event_Handler\obj\Debug\net8.0\refint\Event_Handler.dll
+C:\Users\Administrator\source\repos\Event_Handler\obj\Debug\net8.0\Event_Handler.pdb
+C:\Users\Administrator\source\repos\Event_Handler\obj\Debug\net8.0\Event_Handler.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Event_Handler\obj\Debug\net8.0\ref\Event_Handler.dll
