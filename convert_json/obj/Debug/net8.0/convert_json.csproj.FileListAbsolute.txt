@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\convert_json\bin\Debug\net8.0\convert_json.exe
+C:\Users\Administrator\source\repos\convert_json\bin\Debug\net8.0\convert_json.deps.json
+C:\Users\Administrator\source\repos\convert_json\bin\Debug\net8.0\convert_json.runtimeconfig.json
+C:\Users\Administrator\source\repos\convert_json\bin\Debug\net8.0\convert_json.dll
+C:\Users\Administrator\source\repos\convert_json\bin\Debug\net8.0\convert_json.pdb
+C:\Users\Administrator\source\repos\convert_json\obj\Debug\net8.0\convert_json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\convert_json\obj\Debug\net8.0\convert_json.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\convert_json\obj\Debug\net8.0\convert_json.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\convert_json\obj\Debug\net8.0\convert_json.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\convert_json\obj\Debug\net8.0\convert_json.dll
+C:\Users\Administrator\source\repos\convert_json\obj\Debug\net8.0\refint\convert_json.dll
+C:\Users\Administrator\source\repos\convert_json\obj\Debug\net8.0\convert_json.pdb
+C:\Users\Administrator\source\repos\convert_json\obj\Debug\net8.0\convert_json.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\convert_json\obj\Debug\net8.0\ref\convert_json.dll
