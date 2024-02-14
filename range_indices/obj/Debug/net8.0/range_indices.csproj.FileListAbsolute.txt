@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\range_indices\bin\Debug\net8.0\range_indices.exe
+C:\Users\Administrator\source\repos\range_indices\bin\Debug\net8.0\range_indices.deps.json
+C:\Users\Administrator\source\repos\range_indices\bin\Debug\net8.0\range_indices.runtimeconfig.json
+C:\Users\Administrator\source\repos\range_indices\bin\Debug\net8.0\range_indices.dll
+C:\Users\Administrator\source\repos\range_indices\bin\Debug\net8.0\range_indices.pdb
+C:\Users\Administrator\source\repos\range_indices\obj\Debug\net8.0\range_indices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\range_indices\obj\Debug\net8.0\range_indices.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\range_indices\obj\Debug\net8.0\range_indices.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\range_indices\obj\Debug\net8.0\range_indices.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\range_indices\obj\Debug\net8.0\range_indices.dll
+C:\Users\Administrator\source\repos\range_indices\obj\Debug\net8.0\refint\range_indices.dll
+C:\Users\Administrator\source\repos\range_indices\obj\Debug\net8.0\range_indices.pdb
+C:\Users\Administrator\source\repos\range_indices\obj\Debug\net8.0\range_indices.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\range_indices\obj\Debug\net8.0\ref\range_indices.dll
