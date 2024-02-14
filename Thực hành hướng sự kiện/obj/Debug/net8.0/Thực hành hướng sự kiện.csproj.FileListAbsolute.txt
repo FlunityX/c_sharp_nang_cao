@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Thực hành hướng sự kiện\bin\Debug\net8.0\Thực hành hướng sự kiện.exe
+C:\Users\Administrator\source\repos\Thực hành hướng sự kiện\bin\Debug\net8.0\Thực hành hướng sự kiện.deps.json
+C:\Users\Administrator\source\repos\Thực hành hướng sự kiện\bin\Debug\net8.0\Thực hành hướng sự kiện.runtimeconfig.json
+C:\Users\Administrator\source\repos\Thực hành hướng sự kiện\bin\Debug\net8.0\Thực hành hướng sự kiện.dll
+C:\Users\Administrator\source\repos\Thực hành hướng sự kiện\bin\Debug\net8.0\Thực hành hướng sự kiện.pdb
+C:\Users\Administrator\source\repos\Thực hành hướng sự kiện\obj\Debug\net8.0\Thực hành hướng sự kiện.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Thực hành hướng sự kiện\obj\Debug\net8.0\Thực hành hướng sự kiện.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Thực hành hướng sự kiện\obj\Debug\net8.0\Thực hành hướng sự kiện.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Thực hành hướng sự kiện\obj\Debug\net8.0\Thực hành hướng sự kiện.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Thực hành hướng sự kiện\obj\Debug\net8.0\Thực hành hướng sự kiện.dll
+C:\Users\Administrator\source\repos\Thực hành hướng sự kiện\obj\Debug\net8.0\refint\Thực hành hướng sự kiện.dll
+C:\Users\Administrator\source\repos\Thực hành hướng sự kiện\obj\Debug\net8.0\Thực hành hướng sự kiện.pdb
+C:\Users\Administrator\source\repos\Thực hành hướng sự kiện\obj\Debug\net8.0\Thực hành hướng sự kiện.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Thực hành hướng sự kiện\obj\Debug\net8.0\ref\Thực hành hướng sự kiện.dll
