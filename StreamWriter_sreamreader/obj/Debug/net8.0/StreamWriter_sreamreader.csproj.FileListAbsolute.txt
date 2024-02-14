@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\StreamWriter_sreamreader\bin\Debug\net8.0\StreamWriter_sreamreader.exe
+C:\Users\Administrator\source\repos\StreamWriter_sreamreader\bin\Debug\net8.0\StreamWriter_sreamreader.deps.json
+C:\Users\Administrator\source\repos\StreamWriter_sreamreader\bin\Debug\net8.0\StreamWriter_sreamreader.runtimeconfig.json
+C:\Users\Administrator\source\repos\StreamWriter_sreamreader\bin\Debug\net8.0\StreamWriter_sreamreader.dll
+C:\Users\Administrator\source\repos\StreamWriter_sreamreader\bin\Debug\net8.0\StreamWriter_sreamreader.pdb
+C:\Users\Administrator\source\repos\StreamWriter_sreamreader\obj\Debug\net8.0\StreamWriter_sreamreader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\StreamWriter_sreamreader\obj\Debug\net8.0\StreamWriter_sreamreader.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\StreamWriter_sreamreader\obj\Debug\net8.0\StreamWriter_sreamreader.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\StreamWriter_sreamreader\obj\Debug\net8.0\StreamWriter_sreamreader.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\StreamWriter_sreamreader\obj\Debug\net8.0\StreamWriter_sreamreader.dll
+C:\Users\Administrator\source\repos\StreamWriter_sreamreader\obj\Debug\net8.0\refint\StreamWriter_sreamreader.dll
+C:\Users\Administrator\source\repos\StreamWriter_sreamreader\obj\Debug\net8.0\StreamWriter_sreamreader.pdb
+C:\Users\Administrator\source\repos\StreamWriter_sreamreader\obj\Debug\net8.0\StreamWriter_sreamreader.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\StreamWriter_sreamreader\obj\Debug\net8.0\ref\StreamWriter_sreamreader.dll
