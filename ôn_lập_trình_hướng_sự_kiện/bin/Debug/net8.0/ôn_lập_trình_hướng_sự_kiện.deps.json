@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ôn_lập_trình_hướng_sự_kiện/1.0.0": {
+        "runtime": {
+          "ôn_lập_trình_hướng_sự_kiện.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ôn_lập_trình_hướng_sự_kiện/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

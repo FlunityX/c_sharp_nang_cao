@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ôn_lập_trình_hướng_sự_kiện\bin\Debug\net8.0\ôn_lập_trình_hướng_sự_kiện.exe
+C:\Users\Administrator\source\repos\ôn_lập_trình_hướng_sự_kiện\bin\Debug\net8.0\ôn_lập_trình_hướng_sự_kiện.deps.json
+C:\Users\Administrator\source\repos\ôn_lập_trình_hướng_sự_kiện\bin\Debug\net8.0\ôn_lập_trình_hướng_sự_kiện.runtimeconfig.json
+C:\Users\Administrator\source\repos\ôn_lập_trình_hướng_sự_kiện\bin\Debug\net8.0\ôn_lập_trình_hướng_sự_kiện.dll
+C:\Users\Administrator\source\repos\ôn_lập_trình_hướng_sự_kiện\bin\Debug\net8.0\ôn_lập_trình_hướng_sự_kiện.pdb
+C:\Users\Administrator\source\repos\ôn_lập_trình_hướng_sự_kiện\obj\Debug\net8.0\ôn_lập_trình_hướng_sự_kiện.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ôn_lập_trình_hướng_sự_kiện\obj\Debug\net8.0\ôn_lập_trình_hướng_sự_kiện.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ôn_lập_trình_hướng_sự_kiện\obj\Debug\net8.0\ôn_lập_trình_hướng_sự_kiện.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ôn_lập_trình_hướng_sự_kiện\obj\Debug\net8.0\ôn_lập_trình_hướng_sự_kiện.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ôn_lập_trình_hướng_sự_kiện\obj\Debug\net8.0\ôn_lập_trình_hướng_sự_kiện.dll
+C:\Users\Administrator\source\repos\ôn_lập_trình_hướng_sự_kiện\obj\Debug\net8.0\refint\ôn_lập_trình_hướng_sự_kiện.dll
+C:\Users\Administrator\source\repos\ôn_lập_trình_hướng_sự_kiện\obj\Debug\net8.0\ôn_lập_trình_hướng_sự_kiện.pdb
+C:\Users\Administrator\source\repos\ôn_lập_trình_hướng_sự_kiện\obj\Debug\net8.0\ôn_lập_trình_hướng_sự_kiện.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ôn_lập_trình_hướng_sự_kiện\obj\Debug\net8.0\ref\ôn_lập_trình_hướng_sự_kiện.dll
