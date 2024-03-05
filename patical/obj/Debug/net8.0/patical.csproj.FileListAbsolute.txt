@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\patical\bin\Debug\net8.0\patical.exe
+C:\Users\Administrator\source\repos\patical\bin\Debug\net8.0\patical.deps.json
+C:\Users\Administrator\source\repos\patical\bin\Debug\net8.0\patical.runtimeconfig.json
+C:\Users\Administrator\source\repos\patical\bin\Debug\net8.0\patical.dll
+C:\Users\Administrator\source\repos\patical\bin\Debug\net8.0\patical.pdb
+C:\Users\Administrator\source\repos\patical\obj\Debug\net8.0\patical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\patical\obj\Debug\net8.0\patical.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\patical\obj\Debug\net8.0\patical.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\patical\obj\Debug\net8.0\patical.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\patical\obj\Debug\net8.0\patical.dll
+C:\Users\Administrator\source\repos\patical\obj\Debug\net8.0\refint\patical.dll
+C:\Users\Administrator\source\repos\patical\obj\Debug\net8.0\patical.pdb
+C:\Users\Administrator\source\repos\patical\obj\Debug\net8.0\patical.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\patical\obj\Debug\net8.0\ref\patical.dll
