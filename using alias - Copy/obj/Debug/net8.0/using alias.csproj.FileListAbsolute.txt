@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\using alias\bin\Debug\net8.0\using alias.exe
+C:\Users\Administrator\source\repos\using alias\bin\Debug\net8.0\using alias.deps.json
+C:\Users\Administrator\source\repos\using alias\bin\Debug\net8.0\using alias.runtimeconfig.json
+C:\Users\Administrator\source\repos\using alias\bin\Debug\net8.0\using alias.dll
+C:\Users\Administrator\source\repos\using alias\bin\Debug\net8.0\using alias.pdb
+C:\Users\Administrator\source\repos\using alias\obj\Debug\net8.0\using alias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\using alias\obj\Debug\net8.0\using alias.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\using alias\obj\Debug\net8.0\using alias.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\using alias\obj\Debug\net8.0\using alias.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\using alias\obj\Debug\net8.0\using alias.dll
+C:\Users\Administrator\source\repos\using alias\obj\Debug\net8.0\refint\using alias.dll
+C:\Users\Administrator\source\repos\using alias\obj\Debug\net8.0\using alias.pdb
+C:\Users\Administrator\source\repos\using alias\obj\Debug\net8.0\using alias.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\using alias\obj\Debug\net8.0\ref\using alias.dll
