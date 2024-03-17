@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Write text\bin\Debug\net8.0\Write text.exe
+C:\Users\Administrator\source\repos\Write text\bin\Debug\net8.0\Write text.deps.json
+C:\Users\Administrator\source\repos\Write text\bin\Debug\net8.0\Write text.runtimeconfig.json
+C:\Users\Administrator\source\repos\Write text\bin\Debug\net8.0\Write text.dll
+C:\Users\Administrator\source\repos\Write text\bin\Debug\net8.0\Write text.pdb
+C:\Users\Administrator\source\repos\Write text\obj\Debug\net8.0\Write text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Write text\obj\Debug\net8.0\Write text.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Write text\obj\Debug\net8.0\Write text.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Write text\obj\Debug\net8.0\Write text.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Write text\obj\Debug\net8.0\Write text.dll
+C:\Users\Administrator\source\repos\Write text\obj\Debug\net8.0\refint\Write text.dll
+C:\Users\Administrator\source\repos\Write text\obj\Debug\net8.0\Write text.pdb
+C:\Users\Administrator\source\repos\Write text\obj\Debug\net8.0\Write text.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Write text\obj\Debug\net8.0\ref\Write text.dll
