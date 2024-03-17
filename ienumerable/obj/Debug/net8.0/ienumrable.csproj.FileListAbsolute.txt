@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ienumrable\bin\Debug\net8.0\ienumrable.exe
+C:\Users\Administrator\source\repos\ienumrable\bin\Debug\net8.0\ienumrable.deps.json
+C:\Users\Administrator\source\repos\ienumrable\bin\Debug\net8.0\ienumrable.runtimeconfig.json
+C:\Users\Administrator\source\repos\ienumrable\bin\Debug\net8.0\ienumrable.dll
+C:\Users\Administrator\source\repos\ienumrable\bin\Debug\net8.0\ienumrable.pdb
+C:\Users\Administrator\source\repos\ienumrable\obj\Debug\net8.0\ienumrable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ienumrable\obj\Debug\net8.0\ienumrable.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ienumrable\obj\Debug\net8.0\ienumrable.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ienumrable\obj\Debug\net8.0\ienumrable.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ienumrable\obj\Debug\net8.0\ienumrable.dll
+C:\Users\Administrator\source\repos\ienumrable\obj\Debug\net8.0\refint\ienumrable.dll
+C:\Users\Administrator\source\repos\ienumrable\obj\Debug\net8.0\ienumrable.pdb
+C:\Users\Administrator\source\repos\ienumrable\obj\Debug\net8.0\ienumrable.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ienumrable\obj\Debug\net8.0\ref\ienumrable.dll
