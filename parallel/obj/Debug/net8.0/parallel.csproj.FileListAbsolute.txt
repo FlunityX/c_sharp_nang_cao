@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\parallel\bin\Debug\net8.0\parallel.exe
+C:\Users\Administrator\source\repos\parallel\bin\Debug\net8.0\parallel.deps.json
+C:\Users\Administrator\source\repos\parallel\bin\Debug\net8.0\parallel.runtimeconfig.json
+C:\Users\Administrator\source\repos\parallel\bin\Debug\net8.0\parallel.dll
+C:\Users\Administrator\source\repos\parallel\bin\Debug\net8.0\parallel.pdb
+C:\Users\Administrator\source\repos\parallel\obj\Debug\net8.0\parallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\parallel\obj\Debug\net8.0\parallel.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\parallel\obj\Debug\net8.0\parallel.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\parallel\obj\Debug\net8.0\parallel.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\parallel\obj\Debug\net8.0\parallel.dll
+C:\Users\Administrator\source\repos\parallel\obj\Debug\net8.0\refint\parallel.dll
+C:\Users\Administrator\source\repos\parallel\obj\Debug\net8.0\parallel.pdb
+C:\Users\Administrator\source\repos\parallel\obj\Debug\net8.0\parallel.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\parallel\obj\Debug\net8.0\ref\parallel.dll
