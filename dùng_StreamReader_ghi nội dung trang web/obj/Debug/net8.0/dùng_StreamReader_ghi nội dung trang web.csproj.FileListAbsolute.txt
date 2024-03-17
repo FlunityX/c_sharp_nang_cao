@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\dùng_StreamReader_ghi nội dung trang web\bin\Debug\net8.0\dùng_StreamReader_ghi nội dung trang web.exe
+C:\Users\Administrator\source\repos\dùng_StreamReader_ghi nội dung trang web\bin\Debug\net8.0\dùng_StreamReader_ghi nội dung trang web.deps.json
+C:\Users\Administrator\source\repos\dùng_StreamReader_ghi nội dung trang web\bin\Debug\net8.0\dùng_StreamReader_ghi nội dung trang web.runtimeconfig.json
+C:\Users\Administrator\source\repos\dùng_StreamReader_ghi nội dung trang web\bin\Debug\net8.0\dùng_StreamReader_ghi nội dung trang web.dll
+C:\Users\Administrator\source\repos\dùng_StreamReader_ghi nội dung trang web\bin\Debug\net8.0\dùng_StreamReader_ghi nội dung trang web.pdb
+C:\Users\Administrator\source\repos\dùng_StreamReader_ghi nội dung trang web\obj\Debug\net8.0\dùng_StreamReader_ghi nội dung trang web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\dùng_StreamReader_ghi nội dung trang web\obj\Debug\net8.0\dùng_StreamReader_ghi nội dung trang web.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\dùng_StreamReader_ghi nội dung trang web\obj\Debug\net8.0\dùng_StreamReader_ghi nội dung trang web.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\dùng_StreamReader_ghi nội dung trang web\obj\Debug\net8.0\dùng_StreamReader_ghi nội dung trang web.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\dùng_StreamReader_ghi nội dung trang web\obj\Debug\net8.0\dùng_StreamReader_ghi nội dung trang web.dll
+C:\Users\Administrator\source\repos\dùng_StreamReader_ghi nội dung trang web\obj\Debug\net8.0\refint\dùng_StreamReader_ghi nội dung trang web.dll
+C:\Users\Administrator\source\repos\dùng_StreamReader_ghi nội dung trang web\obj\Debug\net8.0\dùng_StreamReader_ghi nội dung trang web.pdb
+C:\Users\Administrator\source\repos\dùng_StreamReader_ghi nội dung trang web\obj\Debug\net8.0\dùng_StreamReader_ghi nội dung trang web.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\dùng_StreamReader_ghi nội dung trang web\obj\Debug\net8.0\ref\dùng_StreamReader_ghi nội dung trang web.dll

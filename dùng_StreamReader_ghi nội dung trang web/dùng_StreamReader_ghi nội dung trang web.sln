@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34607.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dùng_StreamReader_ghi nội dung trang web", "dùng_StreamReader_ghi nội dung trang web.csproj", "{28FBE621-741C-4B23-9EF9-B789B71CBAFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28FBE621-741C-4B23-9EF9-B789B71CBAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28FBE621-741C-4B23-9EF9-B789B71CBAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28FBE621-741C-4B23-9EF9-B789B71CBAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28FBE621-741C-4B23-9EF9-B789B71CBAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33A8C674-6CDB-44AE-89D9-0B21B242A628}
+	EndGlobalSection
+EndGlobal

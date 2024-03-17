@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "dùng_StreamReader_ghi nội dung trang web/1.0.0": {
+        "runtime": {
+          "dùng_StreamReader_ghi nội dung trang web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dùng_StreamReader_ghi nội dung trang web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
